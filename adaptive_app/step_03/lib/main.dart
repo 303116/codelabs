@@ -3,6 +3,7 @@
 // found in the LICENSE file.
 
 import 'dart:io' show Platform;
+
 import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:flutter/material.dart';
 
